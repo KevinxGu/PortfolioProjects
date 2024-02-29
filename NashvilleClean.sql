@@ -155,4 +155,4 @@ DROP COLUMN SaleDate
 
 -- REFERENCES:
 
--- Followed this video tutorial: https://www.youtube.com/watch?v=iPYVYBtUTyE&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=4
+-- Followed this video tutorial: https://www.youtube.com/watch?v=8rO7ztF4NtU&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=3&t=1054s
