@@ -142,7 +142,6 @@ ORDER BY 2,3
 
 -- Creating View for Visualizations
 
--- From https://stackoverflow.com/questions/71608321/view-created-in-sql-server-management-studio-but-not-visible-in-views-section
 USE PortfolioProject
 GO
 --
@@ -154,3 +153,7 @@ FROM PortfolioProject..CovidDeaths$ dea
 JOIN  PortfolioProject..CovidVaccinations$ vac
 ON dea.location = vac.location AND dea.date = vac.date
 WHERE dea.continent IS NOT NULL
+
+-- REFERENCES:
+
+-- Followed this video tutorial: https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f
