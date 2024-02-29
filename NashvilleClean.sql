@@ -152,3 +152,7 @@ DROP COLUMN OwnerAddress, TaxDistrict, PropertyAddress
 
 ALTER TABLE PortfolioProject.dbo.NashvilleHousing
 DROP COLUMN SaleDate
+
+-- REFERENCES:
+
+-- Followed this video tutorial: https://www.youtube.com/watch?v=iPYVYBtUTyE&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=4
